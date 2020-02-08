@@ -14,9 +14,9 @@ This repository includes the solutions of all Python Projects!
 10. Basta Fazoolin'
 11. Veneer
 12. Towers of Hanoi
-13. Blossom
+13. Blossom (under development)
 14. Choose Your Own Adventure: Wilderness Escape
 15. Maze Explorer
-16. A Sorted Tale
-17. Searchcademy
+16. A Sorted Tale (under development)
+17. Searchcademy (under development)
 18. Skyroute (under development)
