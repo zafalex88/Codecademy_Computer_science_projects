@@ -1,6 +1,6 @@
 Codecademy Pro - Computer Science Career Path Projects
 
-This repository includes the solutions of Python Projects ONLY!
+This repository includes the solutions of all Python Projects!
 
 1. Create Purchasing Information and Receipts for Lovely Loveseats
 2. Getting Ready for Physics Class
@@ -19,6 +19,4 @@ This repository includes the solutions of Python Projects ONLY!
 15. Maze Explorer
 16. A Sorted Tale
 17. Searchcademy
-18.
-19.
-20.
+18. Skyroute (not finished yet)
