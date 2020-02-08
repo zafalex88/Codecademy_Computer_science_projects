@@ -19,4 +19,4 @@ This repository includes the solutions of all Python Projects!
 15. Maze Explorer
 16. A Sorted Tale
 17. Searchcademy
-18. Skyroute (not finished yet)
+18. Skyroute (under development)
